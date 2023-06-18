@@ -1,7 +1,7 @@
 # TextualAnalysis
 This project is a Python program that reads articles from the internet and performs analysis on them to extract various metrics and sentiment scores. The program utilizes the Natural Language Toolkit (NLTK) library and the Textstat library to process and analyze the text.
 
-#Installation
+Installation
 
 1.Clone the repository to your local machine:
 git clone https://github.com/your-username/news-article-analysis.git
