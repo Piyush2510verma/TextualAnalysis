@@ -11,7 +11,7 @@ urls = ['https://www.ndtv.com/india-news/move-to-rename-jawaharlal-nehru-museum-
 encoded_urls = [url.encode('utf-8') for url in urls]
 
 # Start URL ID
-url_id = 37
+url_id = 1
 
 for url in urls:
     # Create a newspaper Article object
